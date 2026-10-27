@@ -1,4 +1,2 @@
 # microservices-class
-Sushi
-Anything mom cooks
-Beyond Burger
+My favorite food is anything my mom cooks!
